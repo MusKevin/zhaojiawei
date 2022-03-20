@@ -1,0 +1,5 @@
+[
+null,
+{"id":1,"expanded":true,"name":"学校","order":1,"parentId":0,"scrollX":832,"scrollY":748},
+{"id":2,"expanded":false,"name":"食堂","order":2,"parentId":1,"scrollX":816,"scrollY":640}
+]
